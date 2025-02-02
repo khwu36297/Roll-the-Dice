@@ -27,7 +27,8 @@ pip install ffmpeg
 ```
 ## Dice Roll Simulation Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iJ-zd--W1aw" frameborder="0" allowfullscreen></iframe>
+[![Dice Roll Simulation](https://img.youtube.com/vi/iJ-zd--W1aw/0.gif)](https://www.youtube.com/watch?v=iJ-zd--W1aw)
+
 
 
 
