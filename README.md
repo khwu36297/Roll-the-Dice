@@ -8,3 +8,8 @@
 เปิด Terminal แล้วรันคำสั่งนี้:
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+### 2. ติดตั้ง FFmpeg ผ่าน Homebrew:
+หลังจากติดตั้ง Homebrew เสร็จแล้ว ใช้คำสั่งนี้เพื่อติดตั้ง FFmpeg:
+```bash
+brew install ffmpeg
