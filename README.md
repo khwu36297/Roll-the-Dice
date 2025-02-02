@@ -25,3 +25,6 @@ ffmpeg -version
 ```bash
 pip install ffmpeg
 ```
+## Dice Roll Simulation Video
+
+![Dice Roll Simulation](https://github.com/your-username/your-repo-name/blob/main/dice_rolls_simulation.mp4)
